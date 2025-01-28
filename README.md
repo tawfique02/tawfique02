@@ -59,33 +59,27 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
-
+ 
 # 📊 GitHub 📊:
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+</br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBiYno0bnJpcW9lZW8xemw2bHU5dnVhaHNidTBvdjczcm9lZGplZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 ## 🏆 GitHub New Learners 
 ![]
+
 <!--START_SECTION:waka-->
 
 ```text
-Python  3 hrs 58 mins    █████████████████████████   100.00 %
+Online  3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfique02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
-
-
-
-
-
-
-
+   
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawfique02&show_icons=true&theme=radical)  <!-- Replace 'yourusername' with your actual GitHub username -->
 <div align="left">
