@@ -123,8 +123,7 @@ Python  3 hrs 58 mins    ██████████████████�
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
 
 ## 📫 Contact Me
-- **Email:** [Email](mailto:mdalergy420.facebook@.com)
-- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/yourusername)
+- **Email:** [Email](mailto:)
 - **GitHub:** [My GitHub Profile](https://github.com/tawfique02)
 
 
