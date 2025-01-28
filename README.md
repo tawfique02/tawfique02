@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBiYno0bnJpcW9lZW8xemw2bHU5dnVhaHNidTBvdjczcm9lZGplZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 ## 🏆 GitHub New Learners 
-![]
+[]
 
 <!--START_SECTION:waka-->
 
@@ -91,7 +91,6 @@ Online  3 hrs 58 mins    ██████████████████�
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
 ## 🛠 Skills
 - **Languages:** C, C++, HTML, Python
 - **Tools:** Git, Visual Studio Code, Sublime Text
@@ -107,21 +106,12 @@ Online  3 hrs 58 mins    ██████████████████�
 - **Achievement 2:** Description of my achievement.
 - **Achievement 3:** Description of my achievement.
 
-
-
-
-
-
-
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
 
 ## 📫 Contact Me
 - **Email:** [Email](mailto:)
 - **GitHub:** [My GitHub Profile](https://github.com/tawfique02)
-
-
-
 
 
 
