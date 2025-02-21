@@ -115,4 +115,3 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 
 
 
-![Digital Clock](path/to/your/clock.gif)
