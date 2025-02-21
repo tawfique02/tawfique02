@@ -113,24 +113,4 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 - **Email:** [Email](mailto:)
 - **GitHub:** [My GitHub Profile](https://github.com/tawfique02)
 
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #282c34;
-    color: white;
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-}
 
-.clock {
-    border: 3px solid #61dafb;
-    border-radius: 10px;
-    padding: 20px;
-    text-align: center;
-}
-
-#time {
-    font-size: 3rem;
-}
