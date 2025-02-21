@@ -130,3 +130,5 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 
     sleep(1);
 }
+
+![Digital Clock](path/to/your/clock.gif)
