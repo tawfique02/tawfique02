@@ -115,33 +115,18 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 
 
 
-#include <stdio.h>
-#include <time.h>
-#include <unistd.h>
+    time(&currentTime);
+    localTime = localtime(&currentTime);
 
-void displayClock() {
-    while (1) {
-        time_t currentTime;
-        struct tm *localTime;
+    printf("\033[2J\033[H"); // Clear the screen
+    printf("\033[48;5;240m"); // Set background color
 
-        time(&currentTime);
-        localTime = localtime(&currentTime);
+    // Print the clock with a background
+    printf("\n");
+    printf("        \033[38;5;15m%02d : %02d : %02d\033[0m\n", localTime->tm_hour, localTime->tm_min, localTime->tm_sec);
+    printf("\033[0m"); // Reset color
 
-        printf("\033[2J\033[H"); // Clear the screen
-        printf("\033[48;5;240m"); // Set background color
+    fflush(stdout);
 
-        // Print the clock with a background
-        printf("\n");
-        printf("        \033[38;5;15m%02d : %02d : %02d\033[0m\n", localTime->tm_hour, localTime->tm_min, localTime->tm_sec);
-        printf("\033[0m"); // Reset color
-
-        fflush(stdout);
-
-        sleep(1);
-    }
-}
-
-int main() {
-    displayClock();
-    return 0;
+    sleep(1);
 }
