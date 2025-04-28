@@ -116,6 +116,16 @@ Online  1 hrs 58 mins    ██████████████████�
 - **Achievement 2:** Description of my achievement.
 - **Achievement 3:** Description of my achievement.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawfique02/tawfique02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawfique02/tawfique02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tawfique02/tawfique02/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
+
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
 
