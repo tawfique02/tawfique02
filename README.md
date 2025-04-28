@@ -77,24 +77,18 @@ Online  1 hrs 58 mins    ██████████████████�
 <!--END_SECTION:waka-->
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfique02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfique02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
    
-## 🔥 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawfique02&show_icons=true&theme=radical)  <!-- Replace 'yourusername' with your actual GitHub username -->
+## 🔥 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawfique02&show_icons=true&theme=github_dark)  <!-- Replace 'yourusername' with your actual GitHub username -->
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=github_dark&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=dracula" alt="Profile Summary">
-</p>
-
-<p align="left">
-  <span style="background: linear-gradient(to right, #00ff00, #008000); -webkit-background-clip: text; color: transparent; font-weight: bold; font-size: 20px;">
-    GitHub Profile Summary
-  </span>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=nord_bright" alt="Profile Summary">
 </p>
 
 
