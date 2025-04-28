@@ -80,7 +80,7 @@ Online  1 hrs 58 mins    ██████████████████�
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfique02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
    
-## 📊 GitHub Stats
+## 🔥 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawfique02&show_icons=true&theme=radical)  <!-- Replace 'yourusername' with your actual GitHub username -->
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -91,6 +91,17 @@ Online  1 hrs 58 mins    ██████████████████�
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=radical" alt="Your GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUser&theme=dracula" alt="Profile Summary">
+</p>
+
+---
 ## 🛠 Skills
 - **Languages:** C, C++, HTML, Python
 - **Tools:** Git, Visual Studio Code, Sublime Text
