@@ -105,6 +105,7 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 - **Email:** [Email](mailto:stifen38@gmail.com)
 - **GitHub:** [My GitHub Profile](https://github.com/tawfique02)
 
+<br>
 <div align="center">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z3M3JpZDRucmdpb2poZTVvcTN0cDhyd3lnaDJjcWpxczk3emNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpX6piGQZTmRXJm/giphy.gif" width="500x"/>
  
