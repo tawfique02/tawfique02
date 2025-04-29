@@ -16,20 +16,15 @@ Here are some ideas to get you started:
 <!-- 
 ✨ Welcome to Md Tawfique Elahey's GitHub Profile ✨
 -->
-
+<!-- 🔐 Hacking / Cybersecurity Themed GIF -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&center=true&width=500&height=30&lines=Hi+👋+I'm+Md+Tawfique+Elahey!;Open-Source+Enthusiast.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
 </p>
 
-<!-- 🔐 Hacking / Cybersecurity Themed GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Hacker typing animation" />
 </p>
-<p align="center">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="480px">
-</p>
 ## 🏆 GitHub New Learners 
-[]
 
 ## 🖥️ Technical Skills
 
@@ -110,3 +105,14 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 - **Email:** [Email](mailto:stifen38@gmail.com)
 - **GitHub:** [My GitHub Profile](https://github.com/tawfique02)
 
+<div align="center">
+
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z3M3JpZDRucmdpb2poZTVvcTN0cDhyd3lnaDJjcWpxczk3emNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpX6piGQZTmRXJm/giphy.gif" width="480x"/>
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2dkMWl5ZzQyNjRuZnBrNzY1Z3c4eTAxaGM2eXJmbG02Ym4xNWVmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyQqyt9S1WTiE6c/giphy.gif" width="480x"/>
+
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpxbXpmdHNkbjl6eDhmZXpxNzNnbnhzbHh2c3BwcWxremYwaDdqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif" width="480x" />
+
+
+  
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
+</div>
