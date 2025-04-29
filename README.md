@@ -11,87 +11,72 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md+Tawfique+Elahey..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
-# 🖥️ Technical Skills: 
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
- 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-</p>
- 
-# 📊 GitHub 📊:
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</br>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBiYno0bnJpcW9lZW8xemw2bHU5dnVhaHNidTBvdjczcm9lZGplZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+
+<!-- 
+✨ Welcome to Md Tawfique Elahey's GitHub Profile ✨
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&center=true&width=500&height=30&lines=Hi+👋+I'm+Md+Tawfique+Elahey!;Open-Source+Enthusiast.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
+</p>
+
+<!-- 🔐 Hacking / Cybersecurity Themed GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Hacker typing animation" />
+</p>
+<p align="center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="480px">
+</p>
 ## 🏆 GitHub New Learners 
 []
 
-<!--START_SECTION:waka-->
+## 🖥️ Technical Skills
 
-```text
-Online  1 hrs 58 mins    █████████████████████████  100.00 %
-```
-<!--END_SECTION:waka-->
+<p align="left">
+  <a href="https://www.w3schools.com/html/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/></a>
+  <a href="https://www.w3schools.com/css/" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/></a>
+  <a href="https://www.w3schools.com/cpp/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/></a>
+  <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/></a>
+  <a href="https://www.canva.com/" title="Canva"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"/></a>
+  <a href="https://wordpress.com/" title="WordPress"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" width="45"/></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="45"/></a>
+  <a href="https://www.arduino.cc/" title="Arduino"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/></a>
+  <a href="https://www.microsoft.com/en-us/windows" title="Windows"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="45"/></a>
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/></a>
+</p>
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tawfique02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tawfique02&show_icons=true&theme=tokyonight&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfique02&layout=compact&theme=tokyonight&hide_border=false" height="200" />
 </div>
-   
-## 🔥 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawfique02&show_icons=true&theme=github_dark)  <!-- Replace 'yourusername' with your actual GitHub username -->
 
-<p align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=github_dark&hide_border=false" alt="GitHub Streak Stats">
+
+
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=nord_bright" height="200" />
+</div>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=tawfique02&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=nord_bright" alt="Profile Summary">
-</p>
+## Some Useful links
 
-<div align="left">
+
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -100,17 +85,14 @@ Online  1 hrs 58 mins    ██████████████████�
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div
 ---
-## 🛠 Skills
-- **Languages:** C, C++, HTML, Python
-- **Tools:** Git, Visual Studio Code, Sublime Text
-- **Technologies:** Web Development, Data Science, Cryptography
 
+## 🔥 WakaTime Stats
 
-## 🏆GitHub Trophies
----
-![](https://github-trophies.vercel.app/?username=tawfique02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--START_SECTION:waka-->
+```text
+Online  1 hrs 58 mins    █████████████████████████  100.00 %
 
-[![](https://visitcount.itsvg.in/api?id=tawfique02&icon=0&color=0)](https://visitcount.itsvg.in)
+```
 ## 🚀 Projects
 - **[Project 1](https://github.com/yourusername/project1):** Description of project 1.
 - **[Project 2](https://github.com/yourusername/project2):** Description of project 2.
@@ -120,9 +102,6 @@ Online  1 hrs 58 mins    ██████████████████�
 - **Achievement 1:** Description of my achievement.
 - **Achievement 2:** Description of my achievement.
 - **Achievement 3:** Description of my achievement.
-###
-
-
 
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
@@ -130,3 +109,4 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 ## 📫 Contact Me
 - **Email:** [Email](mailto:stifen38@gmail.com)
 - **GitHub:** [My GitHub Profile](https://github.com/tawfique02)
+
