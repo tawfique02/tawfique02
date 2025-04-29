@@ -91,7 +91,6 @@ Online  1 hrs 58 mins    ██████████████████�
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=nord_bright" alt="Profile Summary">
 </p>
 
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -106,6 +105,12 @@ Online  1 hrs 58 mins    ██████████████████�
 - **Tools:** Git, Visual Studio Code, Sublime Text
 - **Technologies:** Web Development, Data Science, Cryptography
 
+
+## 🏆GitHub Trophies
+---
+![](https://github-trophies.vercel.app/?username=tawfique02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=tawfique02&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🚀 Projects
 - **[Project 1](https://github.com/yourusername/project1):** Description of project 1.
 - **[Project 2](https://github.com/yourusername/project2):** Description of project 2.
