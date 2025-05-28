@@ -118,8 +118,8 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 <h3 align="left">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px"> </>
   <img src="https://c.tenor.com/ooi51RU2NloAAAAM/wink-cute.gif" width="122px">
-
-  <img src="https://c.tenor.com/1-GJkh8K6doAAAAM/mochi-mochimochi.gif" width="118">
+  <img src="https://media1.tenor.com/m/OAry6dB7bs8AAAAC/jk.gif" width="114px">
+  <img src="https://c.tenor.com/1-GJkh8K6doAAAAM/mochi-mochimochi.gif" width="100">
 </div>
 
 
