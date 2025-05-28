@@ -100,19 +100,18 @@ Online  1 hrs 58 mins    ██████████████████�
 
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
-
-## 📫 Contact Me
-- **Email:** [Email_Me](mailto:stifen38@gmail.com)
 ### Strategic Connections & Resources
 
 | Platform               | Access Badge                                                                                                                               | Description                                                                                     | Direct Link                                                                 |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **YouTube**            | [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://www.youtube.com/) | Cybersecurity tutorials & CTF solutions                                                         | [View Channel](https://www.youtube.com/)                                    |
 | **Facebook**           | [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://facebook.com/) | Professional networking & community engagement                                                  | [Connect Profile](https://facebook.com/)                                    |
-| **Google Site**       | [![Google](https://img.shields.io/badge/-Google-4285F4?style=flat&logo=google&logoColor=white&labelColor=1a1a1a)]()             | My All Certificate                                             | [Check_Certificate](https://sites.google.com/view/cyber-hunter/home)                 |
-| **My Website**| [![Security App](https://img.shields.io/badge/-Personal_website-00C853?style=flat&logo=shield-check&logoColor=white&labelColor=1a1a1a)]()       | Check my website to find more information                                   | [My_website](https://cyber-hunter-wuaw.vercel.app/)     |
+| **Google Site**       | [![Google_site](https://img.shields.io/badge/-Google_site-4285F4?style=flat&logo=google&logoColor=white&labelColor=1a1a1a)]()             |  All Certificates                                             | [Check_Certificate](https://sites.google.com/view/cyber-hunter/home)                 |
+| **Portfolio**| [![website](https://img.shields.io/badge/-Personal_website-00C853?style=flat&logo=shield-check&logoColor=white&labelColor=1a1a1a)]()       |     Personal website & projects showcase                              | [My_website](https://cyber-hunter-wuaw.vercel.app/)     |
 | **PicoCTF**            | [![PicoCTF](https://img.shields.io/badge/-CTF_Platform-FF6F00?style=flat&logo=keycdn&logoColor=white&labelColor=1a1a1a)]()                  | Competitive cybersecurity challenges & learning platform                                        | [View Profile](https://play.picoctf.org/users/tawfique)                    |
 | **GitHub**             | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/tawfique02)| Software development & project repository                                            | [Visit profile](https://github.com/tawfique02)                          |
+| **Email**             | [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:stifen38@gmail.com)| Contact for collaborations & inquiries               | [Send_Message](mailto:stifen38@gmail.com)                          |
+
 <br>
 
 <div align="center">
