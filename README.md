@@ -103,10 +103,18 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 
 ## 📫 Contact Me
 - **Email:** [Email_Me](mailto:stifen38@gmail.com)
-- **GitHub:** [Github_Profile](https://github.com/tawfique02)
-- **Website:** [Visit_Me](https://cyber-hunter-wuaw.vercel.app/)
-- **Certificate:** [My_Certificate](https://sites.google.com/view/cyber-hunter/home)
+### Strategic Connections & Resources
+
+| Platform               | Access Badge                                                                                                                               | Description                                                                                     | Direct Link                                                                 |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| **YouTube**            | [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=1a1a1a)](https://www.youtube.com/) | Cybersecurity tutorials & CTF solutions                                                         | [View Channel](https://www.youtube.com/)                                    |
+| **Facebook**           | [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1a1a1a)](https://facebook.com/) | Professional networking & community engagement                                                  | [Connect Profile](https://facebook.com/)                                    |
+| **Google Site**       | [![Google](https://img.shields.io/badge/-Google-4285F4?style=flat&logo=google&logoColor=white&labelColor=1a1a1a)]()             | My All Certificate                                             | [Check_Certificate](https://sites.google.com/view/cyber-hunter/home)                 |
+| **My Website**| [![Security App](https://img.shields.io/badge/-Personal_website-00C853?style=flat&logo=shield-check&logoColor=white&labelColor=1a1a1a)]()       | Check my website to find more information                                   | [My_website](https://cyber-hunter-wuaw.vercel.app/)     |
+| **PicoCTF**            | [![PicoCTF](https://img.shields.io/badge/-CTF_Platform-FF6F00?style=flat&logo=keycdn&logoColor=white&labelColor=1a1a1a)]()                  | Competitive cybersecurity challenges & learning platform                                        | [View Profile](https://play.picoctf.org/users/tawfique)                    |
+| **GitHub**             | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/tawfique02)| Software development & project repository                                            | [Visit profile](https://github.com/tawfique02)                          |
 <br>
+
 <div align="center">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z3M3JpZDRucmdpb2poZTVvcTN0cDhyd3lnaDJjcWpxczk3emNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpX6piGQZTmRXJm/giphy.gif" width="500x"/>
  
@@ -115,3 +123,6 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 <div align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
 </div>
+
+
+
