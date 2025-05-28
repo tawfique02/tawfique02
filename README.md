@@ -114,13 +114,12 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 
 <br>
 
-<div align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z3M3JpZDRucmdpb2poZTVvcTN0cDhyd3lnaDJjcWpxczk3emNmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpX6piGQZTmRXJm/giphy.gif" width="500x"/>
  
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpxbXpmdHNkbjl6eDhmZXpxNzNnbnhzbHh2c3BwcWxremYwaDdqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif" width="480x" />
-</div>
-<div align="center">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
+<h3 align="left">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px"> </>
+  <img src="https://c.tenor.com/ooi51RU2NloAAAAM/wink-cute.gif" width="122px">
+
+  <img src="https://c.tenor.com/1-GJkh8K6doAAAAM/mochi-mochimochi.gif" width="118">
 </div>
 
 
