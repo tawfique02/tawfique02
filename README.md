@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=github_dark&hide_border=false" alt="GitHub Streak Stats">
+  
 
 
 
