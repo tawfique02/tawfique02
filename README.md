@@ -99,6 +99,27 @@ Online  1 hrs 58 mins    ██████████████████�
 | 🔍 `debug`     | 🎨 `design`       | 🌱 `grow`       | ☄️ `comet`      |
 | 🛠️ `fix`       | 🎥 `stream`       | ⚡ `energy`     | 🌠 `wish`       |
 
+### CyberSec Kitty Skills Matrix 🐱‍💻
+
+| Domain               | Skills & Expertise                | Tools & Technologies           |
+|----------------------|-----------------------------------|--------------------------------|
+| **🐱‍👓 Threat Analysis** | `🐾` Threat Hunting              | `🔍` Splunk • ELK • Wireshark  |
+|                      | `👀` Anomaly Detection           | `📊` Sigma • YARA • Snort      |
+|                      | `🧩` Malware Analysis            | `🦠` VirusTotal • Cuckoo Sandbox |
+| **🛡️ Defense Ops**     | `🐱‍🚀` Perimeter Defense         | `🛡️` pfSense • Palo Alto FW   |
+|                      | `🔒` Access Control              | `🔑` HashiCorp Vault • Keycloak |
+|                      | `📡` Network Security            | `🌐` Nmap • ZAP • Burp Suite   |
+| **☁️ Cloud Security**  | `🐱‍💻` Cloud Hardening           | `☁️` AWS GuardDuty • Azure Sentinel |
+|                      | `📦` Container Security          | `🐳` Docker Bench • Trivy      |
+|                      | `🔐` Secrets Management          | `🗝️` AWS KMS • Azure Key Vault |
+| **🔓 Offensive Sec**   | `🐱‍🐉` Penetration Testing       | `⚔️` Metasploit • Kali Linux   |
+|                      | `🌐` Web App Security            | `🕸️` OWASP ZAP • SQLMap       |
+|                      | `📱` Mobile Security             | `📲` Frida • MobSF             |
+| **📜 Compliance**      | `🐱‍💼` Risk Management           | `⚖️` CIS Benchmarks • NIST CSF |
+|                      | `📋` Audit Frameworks            | `📑` ISO 27001 • SOC 2         |
+|                      | `🔏` Data Privacy               | `🔒` GDPR • CCPA Compliance    |
+
+
 <!--
 ## 🚀 Projects
 - **[Project 1](https://github.com/yourusername/project1):** Description of project 1.
