@@ -60,10 +60,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  
-
-
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=nord_bright" height="200" />
 </div>
 
@@ -92,8 +88,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ```text
 Online  1 hrs 58 mins    █████████████████████████  100.00 %
-
 ```
+
+### 🌟 Tech & Life Emoji Grid 🚀
+
+|   Code Magic   |    Digital Life    |  Nature & Mood   |   Cosmic Vibes   |
+| :------------: | :---------------: | :-------------: | :-------------: |
+| 🧠 `think`     | 🎮 `gaming`       | 🌈 `rainbow`    | 🚀 `launch`     |
+| 💻 `terminal`  | 🎧 `playlist`     | 🌊 `ocean`      | 🌌 `nebula`     |
+| 🔍 `debug`     | 🎨 `design`       | 🌱 `grow`       | ☄️ `comet`      |
+| 🛠️ `fix`       | 🎥 `stream`       | ⚡ `energy`     | 🌠 `wish`       |
+
 <!--
 ## 🚀 Projects
 - **[Project 1](https://github.com/yourusername/project1):** Description of project 1.
