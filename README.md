@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Hacker typing animation" />
 </p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
+</p>
 ## 🏆 GitHub New Learners 
 
 ## 🖥️ Technical Skills
@@ -115,8 +118,8 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 <br>
 
  
-<h3 align="left">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px"> </>
+<h3 align="center">
+ </>
   <img src="https://c.tenor.com/ooi51RU2NloAAAAM/wink-cute.gif" width="122px">
   <img src="https://media1.tenor.com/m/OAry6dB7bs8AAAAC/jk.gif" width="114px">
   <img src="https://c.tenor.com/1-GJkh8K6doAAAAM/mochi-mochimochi.gif" width="100">
