@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🖥️ Technical Skills
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/html/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/></a>
   <a href="https://www.w3schools.com/css/" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/></a>
   <a href="https://www.w3schools.com/cpp/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/></a>
@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 Online  1 hrs 58 mins    █████████████████████████  100.00 %
 
 ```
+<!--
 ## 🚀 Projects
 - **[Project 1](https://github.com/yourusername/project1):** Description of project 1.
 - **[Project 2](https://github.com/yourusername/project2):** Description of project 2.
@@ -100,7 +101,7 @@ Online  1 hrs 58 mins    ██████████████████�
 - **Achievement 1:** Description of my achievement.
 - **Achievement 2:** Description of my achievement.
 - **Achievement 3:** Description of my achievement.
-
+-->
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
 ### Strategic Connections & Resources
