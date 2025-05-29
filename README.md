@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-   <img src ="https://img.freepik.com/premium-photo/anime-boy-sitting-desk-with-computer-laptop-generative-ai_902846-73990.jpg" width="360" hight="720" />
+  <img src ="https://img.freepik.com/premium-photo/person-working-computer-anime-style_922007-2429.jpg" hight="720" width="440" /> <br>
+   <img src ="https://img.freepik.com/premium-photo/anime-boy-sitting-desk-with-computer-laptop-generative-ai_902846-73990.jpg" width="360" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Hacker typing animation" />
  <img src="https://th.bing.com/th/id/OIP.DOqGu04ZfHQ-wwuPgbhXHgHaLH?rs=1&pid=ImgDetMain" width="240" />
 </p>
