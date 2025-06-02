@@ -1,6 +1,6 @@
 ![logo](https://github.com/tawfique02/tawfique02/blob/main/Navy%20And%20White%20Geomteric%20Technology%20Linkedln%20Banner%20(1).png)
 <!--
-**tawfique02/tawfique02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tawfique02/tawfique02** is a ✨ _special_ color code= E22FE4 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <!-- 🔐 Hacking / Cybersecurity Themed GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&center=true&width=500&height=30&lines=Hi+👋+I'm+Md+Tawfique+Elahey!;Open-Source+Enthusiast.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EB9E4FF&center=true&width=500&height=30&lines=Hi+👋+I'm+Md+Tawfique+Elahey!;Open-Source+Enthusiast.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
 </p>
 
 <p align="center">
