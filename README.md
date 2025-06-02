@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0EB9E4FF&center=true&width=500&height=30&lines=Hi+👋+I'm+Md+Tawfique+Elahey!;Open-Source+Enthusiast.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <img src ="https://img.freepik.com/premium-photo/person-working-computer-anime-style_922007-2429.jpg" hight="720" width="440" /> <br>
-   <img src ="https://img.freepik.com/premium-photo/anime-boy-sitting-desk-with-computer-laptop-generative-ai_902846-73990.jpg" width="360" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Hacker typing animation" />
+  <img src ="https://img.freepik.com/premium-photo/anime-boy-sitting-desk-with-computer-laptop-generative-ai_902846-73990.jpg" hight="720" width="440" /> <br>
+   <img src ="https://img.freepik.com/premium-photo/person-working-computer-anime-style_922007-2429.jpg" width="520" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="470" alt="Hacker typing animation" />
 </p>
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
