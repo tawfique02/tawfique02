@@ -142,17 +142,13 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 | **PicoCTF**            | [![PicoCTF](https://img.shields.io/badge/-CTF_Platform-FF6F00?style=flat&logo=keycdn&logoColor=white&labelColor=1a1a1a)]()                  | Competitive cybersecurity challenges & learning platform                                        | [View Profile](https://play.picoctf.org/users/tawfique)                    |
 | **GitHub**             | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/tawfique02)| Software development & project repository                                            | [Visit profile](https://github.com/tawfique02)                          |
 | **Email**             | [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:invention013654@gmail.com)| Contact for collaborations & inquiries               | [Send_Message](mailto:invention013654@gmail.com)                          |
-
-<br>
-
- 
+</p>
 <h3 align="center">
- </>
   <img src="https://c.tenor.com/ooi51RU2NloAAAAM/wink-cute.gif" width="122px">
   <img src="https://media1.tenor.com/m/OAry6dB7bs8AAAAC/jk.gif" width="114px">
   <img src="https://c.tenor.com/1-GJkh8K6doAAAAM/mochi-mochimochi.gif" width="100px">
   <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/testing-3/sticker_5.gif?6e91b53c04aaf8409b06a80eb2766d06" width="100">
+</h3>
+<div align="center">
+  <img src="https://github.com/tawfique02/tawfique02/blob/main/image.png" width="1700px" height="350px" >
 </div>
-
-
-
