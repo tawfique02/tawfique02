@@ -156,3 +156,23 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 <div align="center">
   <img src="https://github.com/tawfique02/tawfique02/blob/main/image.png" width="1700px" height="350px" >
 </div>
+
+
+---
+
+<div align="center">
+  <img src="https://github.com/debt01/debt01/blob/main/fxac.gif" width="120px">
+  <img src="https://github.com/debt01/debt01/blob/main/Q4P6.gif" width="150px">
+  <img src="https://github.com/debt01/debt01/blob/main/EmhT.gif" width="114px">
+  <img src="https://github.com/debt01/debt01/blob/main/Emhs.gif" width="150px">
+  <img src="https://github.com/debt01/debt01/blob/main/1Dyu.gif" width="120px">
+</div>
+
+---
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=debt01&style=for-the-badge" alt="profile views" /></p>
+
+
+
+
+
