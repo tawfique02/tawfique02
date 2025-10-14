@@ -135,7 +135,7 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 | **CyberDefender** | [![CyberDefender](https://img.shields.io/badge/-CyberDefender-0F52BA?style=flat&logo=hackthebox&logoColor=white&labelColor=1a1a1a)]() | Advanced cybersecurity CTF & learning platform | [View Profile](https://cyberdefenders.org/p/BengaliHackerBD) |
 | **TryHackMe**          | [![TryHackMe](https://img.shields.io/badge/-CTF_Platform-2D9EE0?style=flat&logo=tryhackme&logoColor=white&labelColor=1a1a1a)](https://tryhackme.com) | Hands-on cybersecurity training through gamified labs                                          | [View Profile](https://tryhackme.com/p/tawfique)                     |
 | **GitHub**             | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/tawfique02)| Software development & project repository                                            | [Visit profile](https://github.com/tawfique02)                          |
-| **Email**             | [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:invention013654@gmail.com)| Contact for collaborations & inquiries               | [Send_Message](mailto:invention013654@gmail.com)                          |
+| **Email**             | [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:angelbracket072@gmail.com)| Contact for collaborations & inquiries               | [Send_Message](mailto:angelbracket072@gmail.com)                          |
 </p>
 <h3 align="center">
   <img src="https://c.tenor.com/ooi51RU2NloAAAAM/wink-cute.gif" width="122px">
