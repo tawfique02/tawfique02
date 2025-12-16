@@ -1,4 +1,5 @@
-![logo](https://github.com/tawfique02/tawfique02/blob/main/Navy%20And%20White%20Geomteric%20Technology%20Linkedln%20Banner%20(1).png)
+<img src="https://github.com/tawfique02/tawfique02/blob/main/Untitled%20design.png"
+     width="1584" />
 <!--
 **tawfique02/tawfique02** is a ✨ _special_ color code= E22FE4 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
