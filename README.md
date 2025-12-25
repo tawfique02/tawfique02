@@ -160,10 +160,11 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 </div>
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div
+     
+---
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=debt01&style=for-the-badge" alt="profile views" /></p>
-
-
-
-
 
