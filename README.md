@@ -54,10 +54,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawfique02&show_icons=true&theme=tokyonight&hide_border=false" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfique02&layout=compact&theme=tokyonight&hide_border=false" height="200" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfique02&layout=compact&theme=tokyonight&hide_border=false" height="200" />
 </div>
 
 <div align="center">
