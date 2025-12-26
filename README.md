@@ -56,8 +56,11 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfique02&layout=compact&theme=tokyonight&hide_border=false" height="200" />
-</div>
-
+</div></br>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tawfique02&theme=dark&hide_border=false" />
+  <br/>
+</p>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=nord_bright" height="200" />
 </div>
