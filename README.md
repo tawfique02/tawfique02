@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/tawfique02/tawfique02/blob/main/tech.svg" width="100%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
+  <img src="https://github.com/tawfique02/tawfique02/blob/main/tech.svg" width="110%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
 </div>
 
 <!-- Animated typing -->
