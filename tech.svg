@@ -25,8 +25,8 @@
 
     <!-- Refined Sci-Fi Glow -->
     <filter id="cyberGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="7" result="blur1"/>
-      <feGaussianBlur stdDeviation="3" result="blur2"/>
+      <feGaussianBlur stdDeviation="2" result="blur1"/>
+      <feGaussianBlur stdDeviation="0.8" result="blur2"/>
       <feMerge>
         <feMergeNode in="blur1"/>
         <feMergeNode in="blur2"/>
