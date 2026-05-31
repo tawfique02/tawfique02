@@ -7,12 +7,11 @@
       <stop offset="100%" stop-color="#070a0f"/>
     </linearGradient>
     
-    <!-- GREEN Neon Text Gradient -->
-    <linearGradient id="ultraNeonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00ff41"/>   <!-- Bright Green -->
-      <stop offset="35%" stop-color="#39ff14"/>  <!-- Neon Green -->
-      <stop offset="70%" stop-color="#0fff50"/>  <!-- Electric Green -->
-      <stop offset="100%" stop-color="#00ff41"/> <!-- Bright Green -->
+    <!-- Name Gradient (Purple/Blue) -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
     </linearGradient>
     
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -70,28 +69,9 @@
   <!-- Top & Bottom Tech Lines -->
   <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)"/>
   <rect x="0" y="248" width="900" height="2" fill="url(#lineGrad)"/>
-
-  <!-- Tech Corner Markers with Animation -->
-  <g>
-    <path d="M 12 20 L 12 12 L 20 12" stroke="#00f2fe" stroke-width="2" fill="none" opacity="0.6">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <g>
-    <path d="M 888 20 L 888 12 L 880 12" stroke="#00f2fe" stroke-width="2" fill="none" opacity="0.6">
-      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.2s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <g>
-    <path d="M 12 230 L 12 238 L 20 238" stroke="#ff007f" stroke-width="2" fill="none" opacity="0.6">
-      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="2.8s" repeatCount="indefinite"/>
-    </path>
-  </g>
-  <g>
-    <path d="M 888 230 L 888 238 L 880 238" stroke="#ff007f" stroke-width="2" fill="none" opacity="0.6">
-      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.1s" repeatCount="indefinite"/>
-    </path>
-  </g>
+  <!-- Left & Right Side Borders -->
+  <rect x="0" y="0" width="2" height="250" fill="url(#lineGrad)" opacity="0.6"/>
+  <rect x="898" y="0" width="2" height="250" fill="url(#lineGrad)" opacity="0.6"/>
 
   <!-- Matrix Dot Decoration (Right Side Map) with Animations -->
   <g>
@@ -209,24 +189,14 @@
     </text>
   </g>
 
-  <!-- 🔥 EXTREMELY UNIQUE UNIQUE IDENTITY TEXT 🔥 -->
-  <!-- Layer 1: Futuristic Ghost Border Outline for Deep Tech look -->
-  <text x="52" y="132" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="56" font-weight="900" fill="none" stroke="#00ff41" stroke-width="3" stroke-opacity="0.3" letter-spacing="-0.5">
-    <animate attributeName="stroke-opacity" values="0.2;0.5;0.2" dur="3.5s" repeatCount="indefinite"/>
-    tawfique02
-  </text>
-  
-  <!-- Layer 2: Core Glowing Text with Custom GREEN Neon Gradients and Letter Spacing -->
-  <text x="52" y="132" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="56" font-weight="900" fill="url(#ultraNeonGrad)" filter="url(#cyberGlow)" letter-spacing="-0.5">
+  <!-- Username Text with Purple/Blue Gradient -->
+  <text x="52" y="132" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="56" font-weight="900" fill="url(#nameGrad)" filter="url(#cyberGlow)" letter-spacing="-0.5">
     <animate attributeName="opacity" values="0.8;1;0.8" dur="2.8s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="1;1.02;1" dur="3.2s" repeatCount="indefinite" additive="sum"/>
     tawfique02
   </text>
 
-  <!-- Animated Underline for Username - Rect style like reference -->
-  <rect x="52" y="150" width="288" height="2" fill="url(#lineGrad)" rx="1" opacity="0.85">
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="3.5s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Animated Underline for Username - styled like reference -->
+  <rect x="52" y="150" width="288" height="1.5" fill="url(#lineGrad)" rx="1"/>
 
   <!-- Sleek Tech Divider -->
   <path d="M 55 152 L 480 152" stroke="url(#lineGrad)" stroke-width="2">
