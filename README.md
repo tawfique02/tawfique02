@@ -2,6 +2,14 @@
   <img src="https://github.com/tawfique02/tawfique02/blob/main/tech.svg" width="100%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
 </div>
 
+<!-- Animated typing -->
+<div align="center">
+  <img src="CARD/typing.svg" width="600" alt="Typing animation"/>
+</div>
+
+<br/>
+
+
 <!--
 **tawfique02/tawfique02** is a ✨ _special_ color code= E22FE4 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,8 +31,6 @@ Here are some ideas to get you started:
 ✨ Welcome to Md Tawfique Elahey's GitHub Profile ✨
 -->
 <!-- 🔐 Hacking / Cybersecurity Themed GIF -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0EB9E4FF&center=true&width=500&height=30&lines=Hi+👋+I'm+Md+Tawfique+Elahey!;Open-Source+Enthusiast.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
 </p>
 <p align="center">
    <img src ="https://img.freepik.com/premium-photo/person-working-computer-anime-style_922007-2429.jpg" width="620" />
