@@ -154,7 +154,7 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
   <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/testing-3/sticker_5.gif?6e91b53c04aaf8409b06a80eb2766d06" width="100">
 </h3>
 <div align="center">
-  <img src="https://github.com/tawfique02/tawfique02/blob/main/image.png" width="1700px" height="350px" >
+  <img src="https://github.com/tawfique02/tawfique02/blob/main/hexa.svg" width="1700px" height="350px" >
 </div>
 
 
