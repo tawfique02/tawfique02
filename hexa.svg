@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <defs>
+    <!-- Ultra Dark Cyber Space Premium Background -->
+    <linearGradient id="cyberBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02050b"/>
+      <stop offset="50%" stop-color="#060a15"/>
+      <stop offset="100%" stop-color="#0c1122"/>
+    </linearGradient>
+
+    <!-- Glowing Tech Borders -->
+    <linearGradient id="cyberLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00ff41" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#0fff50" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#39ff14" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Scrolling Hexagon Pattern Architecture -->
+    <pattern id="hexGrid" width="40" height="69.282" patternUnits="userSpaceOnUse" patternTransform="scale(1)">
+      <path d="M 40 0 L 20 11.547 L 0 0 L 0 23.094 L 20 34.641 L 40 23.094 Z M 0 34.641 L 20 46.188 L 0 57.735 L 0 80.829 L 20 92.376 L 40 80.829 L 40 57.735 L 20 46.188 Z" 
+            fill="none" stroke="#00ff41" stroke-width="0.6" stroke-opacity="0.15"/>
+    </pattern>
+
+    <!-- Pro Neon Blur Filters -->
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur1"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="ambientBlur">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+  </defs>
+
+  <!-- 1. BASE BACKGROUND -->
+  <rect width="900" height="250" fill="url(#cyberBg)"/>
+
+  <!-- 2. MOVING BACKGROUND HEX GRID (ডান থেকে বামে স্ক্রোলিং প্রফেশনাল গ্রিড) -->
+  <rect width="1800" height="250" fill="url(#hexGrid)" x="0">
+    <animateAttribute attributeName="x" from="0" to="-40" dur="3s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- 3. AMBIENT CORE GLOWS (পালসিং নেবুলা ইফেক্ট) -->
+  <circle cx="450" cy="125" r="170" fill="#00ff41" opacity="0.05" filter="url(#ambientBlur)">
+    <animate attributeName="opacity" values="0.03;0.10;0.03" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="125" r="110" fill="#0fff50" opacity="0.04" filter="url(#ambientBlur)">
+    <animate attributeName="opacity" values="0.02;0.08;0.02" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 4. FLOATING DATA STREAMERS (উপর থেকে নিচে নামা ড্রপলেট সিগন্যাল) -->
+  <g stroke="#00ff41" stroke-width="1" stroke-opacity="0.3" stroke-dasharray="2, 20">
+    <!-- Stream 1 -->
+    <line x1="150" y1="-50" x2="150" y2="300">
+      <animate attributeName="stroke-dashoffset" values="0;220" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <!-- Stream 2 -->
+    <line x1="750" y1="-50" x2="750" y2="300">
+      <animate attributeName="stroke-dashoffset" values="110;330" dur="5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- 5. SIDE TECH CIRCUIT INTEGRATIONS (বামে ও ডানে হালকা সার্কিট আর্কিটেকচার) -->
+  <g stroke="#00ff41" stroke-width="0.8" fill="none" opacity="0.15">
+    <animate attributeName="opacity" values="0.1;0.25;0.1" dur="4s" repeatCount="indefinite"/>
+    <!-- Left Tech Node -->
+    <path d="M 50,70 L 110,70 L 140,100 M 110,70 L 130,50"/>
+    <circle cx="50" cy="70" r="2.5" fill="#00ff41"/>
+    <circle cx="140" cy="100" r="1.5" fill="#00ff41"/>
+    <!-- Right Tech Node -->
+    <path d="M 850,180 L 790,180 L 760,150 M 790,180 L 770,200"/>
+    <circle cx="850" cy="180" r="2.5" fill="#00ff41"/>
+    <circle cx="760" cy="150" r="1.5" fill="#00ff41"/>
+  </g>
+
+  <!-- 6. TOP & BOTTOM HANGING STRUCTURAL FRAMES -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#cyberLine)"/>
+  <rect x="0" y="247" width="900" height="3" fill="url(#cyberLine)"/>
+
+  <!-- Corner Brackets with Tech Cross Flashes -->
+  <g opacity="0.8">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2.5s" repeatCount="indefinite"/>
+    <path d="M 25,20 L 55,20 M 25,20 L 25,50" stroke="#00ff41" stroke-width="2" fill="none"/>
+    <path d="M 875,20 L 845,20 M 875,20 L 875,50" stroke="#0fff50" stroke-width="2" fill="none"/>
+    <path d="M 25,230 L 55,230 M 25,230 L 25,200" stroke="#39ff14" stroke-width="2" fill="none"/>
+    <path d="M 875,230 L 845,230 M 875,230 L 875,200" stroke="#00ff41" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- ── 7. CENTERED ADVANCED SCI-FI CORE (HIGH FIDELITY) ── -->
+  <g transform="translate(450, 125)">
+    <!-- Target Crosshairs / Radar Subsystem -->
+    <g stroke="#00ff41" stroke-width="0.5" opacity="0.35" stroke-dasharray="4, 20">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+      <line x1="-95" y1="0" x2="95" y2="0"/>
+      <line x1="0" y1="-95" x2="0" y2="95"/>
+    </g>
+
+    <!-- Outer Data Orbit (Slow Precision) -->
+    <circle cx="0" cy="0" r="85" fill="none" stroke="#00ff41" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="15, 75, 35, 25">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Main Outer Ring (Heavy Tech Dash Engine) -->
+    <circle cx="0" cy="0" r="72" fill="none" stroke="#00ff41" stroke-width="1.8" stroke-opacity="0.6" stroke-dasharray="20, 10, 5, 10">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-width" values="1.2;2.5;1.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Quantum Tech Nodes (Orbit Particles) -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5.5s" repeatCount="indefinite"/>
+      <circle cx="72" cy="0" r="3.5" fill="#ffffff" filter="url(#neonGlow)"/>
+      <circle cx="-72" cy="0" r="2.5" fill="#39ff14" filter="url(#neonGlow)"/>
+    </g>
+    
+    <!-- Middle Core Reverse Ring -->
+    <circle cx="0" cy="0" r="54" fill="none" stroke="#39ff14" stroke-width="2" stroke-opacity="0.5" stroke-dasharray="50, 15, 8, 12">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Inner Frequency Ring (Breathing Scaler) -->
+    <circle cx="0" cy="0" r="36" fill="none" stroke="#0fff50" stroke-width="1" stroke-opacity="0.7" stroke-dasharray="6, 4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="34;39;34" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Micro Core Alignment Circle -->
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.4" stroke-dasharray="30, 8">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Core Center Singularity (Intense Glow Node) -->
+    <circle cx="0" cy="0" r="7.5" fill="#00ff41" filter="url(#neonGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="6.5;9.5;6.5" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- High-Intensity Pivot Point -->
+    <circle cx="0" cy="0" r="2.5" fill="#ffffff"/>
+  </g>
+
+  <!-- 8. MINIMAL RANDOMIZED SIGNAL SPARKLES -->
+  <circle cx="280" cy="65" r="1.2" fill="#00ff41" opacity="0.3"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <circle cx="620" cy="185" r="1.2" fill="#0fff50" opacity="0.4"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.8s" repeatCount="indefinite"/></circle>
+</svg>
