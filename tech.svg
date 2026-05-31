@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="50%" stop-color="#101520"/>
+      <stop offset="100%" stop-color="#070a0f"/>
+    </linearGradient>
+    
+    <!-- GREEN Neon Text Gradient -->
+    <linearGradient id="ultraNeonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff41"/>   <!-- Bright Green -->
+      <stop offset="35%" stop-color="#39ff14"/>  <!-- Neon Green -->
+      <stop offset="70%" stop-color="#0fff50"/>  <!-- Electric Green -->
+      <stop offset="100%" stop-color="#00ff41"/> <!-- Bright Green -->
+    </linearGradient>
+    
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00f2fe" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#ff007f" stop-opacity="0.8"/>
+      <stop offset="80%" stop-color="#b800ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#b800ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Refined Sci-Fi Glow -->
+    <filter id="cyberGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur1"/>
+      <feGaussianBlur stdDeviation="3" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="ambientBlur">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="250" fill="url(#bgGrad)"/>
+
+  <!-- High-Tech Ambient Glowing Blobs -->
+  <circle cx="800" cy="60" r="110" fill="#00f2fe" opacity="0.12" filter="url(#ambientBlur)">
+    <animate attributeName="opacity" values="0.08;0.18;0.08" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="190" r="90" fill="#ff007f" opacity="0.09" filter="url(#ambientBlur)">
+    <animate attributeName="opacity" values="0.05;0.15;0.05" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Cyberpunk Subtle Grid Overlay -->
+  <g opacity="0.03">
+    <path d="M0,25 H900 M0,50 H900 M0,75 H900 M0,100 H900 M0,125 H900 M0,150 H900 M0,175 H900 M0,200 H900 M0,225 H900" stroke="#ffffff" stroke-width="1"/>
+    <path d="M50,0 V250 M100,0 V250 M150,0 V250 M200,0 V250 M250,0 V250 M300,0 V250 M350,0 V250 M400,0 V250 M450,0 V250 M500,0 V250 M550,0 V250 M600,0 V250 M650,0 V250 M700,0 V250 M750,0 V250 M800,0 V250 M850,0 V250" stroke="#ffffff" stroke-width="1"/>
+  </g>
+
+  <!-- Top & Bottom Tech Lines -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#lineGrad)"/>
+  <rect x="0" y="248" width="900" height="2" fill="url(#lineGrad)"/>
+
+  <!-- Tech Corner Markers -->
+  <path d="M 12 20 L 12 12 L 20 12" stroke="#00f2fe" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 888 20 L 888 12 L 880 12" stroke="#00f2fe" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 12 230 L 12 238 L 20 238" stroke="#ff007f" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 888 230 L 888 238 L 880 238" stroke="#ff007f" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <!-- Matrix Dot Decoration (Right Side Map) -->
+  <g opacity="0.15">
+    <circle cx="650" cy="50" r="1" fill="#fff"/><circle cx="675" cy="50" r="1" fill="#fff"/><circle cx="700" cy="50" r="1" fill="#fff"/><circle cx="725" cy="50" r="1" fill="#fff"/><circle cx="750" cy="50" r="1" fill="#fff"/><circle cx="775" cy="50" r="1" fill="#fff"/><circle cx="800" cy="50" r="1" fill="#fff"/><circle cx="825" cy="50" r="1" fill="#fff"/><circle cx="850" cy="50" r="1" fill="#fff"/>
+    <circle cx="650" cy="75" r="1" fill="#fff"/><circle cx="675" cy="75" r="1" fill="#fff"/><circle cx="700" cy="75" r="1" fill="#fff"/><circle cx="725" cy="75" r="1" fill="#fff"/><circle cx="750" cy="75" r="1" fill="#fff"/><circle cx="775" cy="75" r="1" fill="#fff"/><circle cx="800" cy="75" r="1" fill="#fff"/><circle cx="825" cy="75" r="1" fill="#fff"/><circle cx="850" cy="75" r="1" fill="#fff"/>
+    <circle cx="650" cy="100" r="1" fill="#fff"/><circle cx="675" cy="100" r="1" fill="#fff"/><circle cx="700" cy="100" r="1" fill="#fff"/><circle cx="725" cy="100" r="1" fill="#fff"/><circle cx="750" cy="100" r="1" fill="#fff"/><circle cx="775" cy="100" r="1" fill="#fff"/><circle cx="800" cy="100" r="1" fill="#fff"/><circle cx="825" cy="100" r="1" fill="#fff"/><circle cx="850" cy="100" r="1" fill="#fff"/>
+    <circle cx="650" cy="122" r="1" fill="#fff"/><circle cx="675" cy="122" r="1" fill="#fff"/><circle cx="700" cy="122" r="1" fill="#fff"/><circle cx="725" cy="122" r="1" fill="#fff"/><circle cx="750" cy="122" r="1" fill="#fff"/><circle cx="775" cy="122" r="1" fill="#fff"/><circle cx="800" cy="122" r="1" fill="#fff"/><circle cx="825" cy="122" r="1" fill="#fff"/><circle cx="850" cy="122" r="1" fill="#fff"/>
+    <circle cx="650" cy="147" r="1" fill="#fff"/><circle cx="675" cy="147" r="1" fill="#fff"/><circle cx="700" cy="147" r="1" fill="#fff"/><circle cx="725" cy="147" r="1" fill="#fff"/><circle cx="750" cy="147" r="1" fill="#fff"/><circle cx="775" cy="147" r="1" fill="#fff"/><circle cx="800" cy="147" r="1" fill="#fff"/><circle cx="825" cy="147" r="1" fill="#fff"/><circle cx="850" cy="147" r="1" fill="#fff"/>
+  </g>
+
+  <!-- Futuristic Sci-Fi Core & Rotating Rings -->
+  <g transform="translate(720, 125)">
+    <circle cx="0" cy="0" r="75" fill="none" stroke="#00f2fe" stroke-width="1" stroke-opacity="0.4" stroke-dasharray="12, 6, 4, 6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="55" fill="none" stroke="#ff007f" stroke-width="1.5" stroke-opacity="0.3" stroke-dasharray="40, 10">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#b800ff" stroke-width="0.8" stroke-opacity="0.5" stroke-dasharray="2, 4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="6" fill="#00f2fe" filter="url(#cyberGlow)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="3" fill="#ffffff"/>
+  </g>
+
+  <!-- LEFT CONTENT AREA -->
+  
+  <!-- Terminal Prompt Style Greeting -->
+  <g transform="translate(55, 60)">
+    <text font-family="'Fira Code', 'Courier New', monospace" font-size="13" font-weight="600" fill="#6272a4">
+      <tspan fill="#50fa7b">⚡ tawfique02@root:</tspan><tspan fill="#bd93f9">~</tspan><tspan fill="#f8f8f2">$</tspan> <tspan fill="#f1fa8c">cat</tspan> intro.md
+    </text>
+  </g>
+
+  <!-- 🔥 EXTREMELY UNIQUE UNIQUE IDENTITY TEXT 🔥 -->
+  <!-- Layer 1: Futuristic Ghost Border Outline for Deep Tech look -->
+  <text x="52" y="132" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="56" font-weight="900" fill="none" stroke="#00ff41" stroke-width="3" stroke-opacity="0.3" letter-spacing="-0.5">tawfique02</text>
+  
+  <!-- Layer 2: Core Glowing Text with Custom GREEN Neon Gradients and Letter Spacing -->
+  <text x="52" y="132" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="56" font-weight="900" fill="url(#ultraNeonGrad)" filter="url(#cyberGlow)" letter-spacing="-0.5">tawfique02</text>
+
+  <!-- Sleek Tech Divider -->
+  <path d="M 55 152 L 480 152" stroke="url(#lineGrad)" stroke-width="2"/>
+  <circle cx="55" cy="152" r="2" fill="#00f2fe"/>
+
+  <!-- Modern Subtitle -->
+  <text x="55" y="182" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="11.5" font-weight="700" fill="#959cbd" letter-spacing="3.5">CYBERSECURITY ENTHUSIAST · CTF PLAYER · TECH LOVER</text>
+
+  <!-- Badges -->
+  <g transform="translate(55, 204)">
+    <rect rx="6" width="75" height="24" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="37.5" y="16" text-anchor="middle" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#ffb86c">🕵️‍♂️ TECH</text>
+  </g>
+  <g transform="translate(140, 204)">
+    <rect rx="6" width="150" height="24" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="75" y="16" text-anchor="middle" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#8be9fd">🛡️ ENCRYPTION</text>
+  </g>
+  <g transform="translate(300, 204)">
+    <rect rx="6" width="110" height="24" fill="#21262d" stroke="#30363d" stroke-width="1"/>
+    <text x="55" y="16" text-anchor="middle" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#50fa7b">🔧 DEVELOPMENT</text>
+  </g>
+</svg>
