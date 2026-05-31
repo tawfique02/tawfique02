@@ -4,7 +4,7 @@
 
 <!-- Animated typing -->
 <div align="center">
-  <img src="CARD/typing.svg" width="600" alt="Typing animation"/>
+  <img src="https://github.com/tawfique02/tawfique02/blob/main/typing.svg" width="600" alt="Typing animation"/>
 </div>
 
 <br/>
