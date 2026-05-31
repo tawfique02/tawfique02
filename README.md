@@ -1,5 +1,7 @@
-<img src="https://github.com/tawfique02/tawfique02/blob/main/Untitled%20design.png"
-     width="1584" />
+<div align="center">
+  <img src="https://github.com/tawfique02/tawfique02/blob/main/tech.svg" width="100%" alt="Banner de Hector Daniel Ayarachi Fuentes"/>
+</div>
+
 <!--
 **tawfique02/tawfique02** is a ✨ _special_ color code= E22FE4 ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
