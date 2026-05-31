@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720">
+  <defs>
+    <!-- Dark Space Premium Background Gradient -->
+    <linearGradient id="cyberBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02050b"/>
+      <stop offset="50%" stop-color="#050a14"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+
+    <!-- Glowing Tech Borders -->
+    <linearGradient id="cyberLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff41" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00ff41" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#0fff50" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#39ff14" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Scrolling Hexagon Pattern Architecture -->
+    <pattern id="hexGrid" width="40" height="69.282" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 20 11.547 L 0 0 L 0 23.094 L 20 34.641 L 40 23.094 Z M 0 34.641 L 20 46.188 L 0 57.735 L 0 80.829 L 20 92.376 L 40 80.829 L 40 57.735 L 20 46.188 Z" 
+            fill="none" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.12"/>
+    </pattern>
+
+    <!-- Intense Neon Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="1" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="ambientBlur">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+
+  <!-- 1. BASE BACKGROUND -->
+  <rect width="960" height="720" fill="url(#cyberBg)"/>
+
+  <!-- 2. MOVING BACKGROUND HEX GRID (অনবরত স্ক্রোলিং গ্রিড) -->
+  <rect width="1020" height="720" fill="url(#hexGrid)" x="0">
+    <animate attributeName="x" from="0" to="-40" dur="4s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- 3. AMBIENT BACKGROUND GLOWS (কোণাকুনি পালসিং গ্লো) -->
+  <circle cx="150" cy="150" r="180" fill="#00ff41" opacity="0.04" filter="url(#ambientBlur)">
+    <animate attributeName="opacity" values="0.02;0.06;0.02" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="800" cy="550" r="200" fill="#0fff50" opacity="0.03" filter="url(#ambientBlur)">
+    <animate attributeName="opacity" values="0.01;0.05;0.01" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- 4. HEADER FRAME & TITLE -->
+  <g transform="translate(40, 40)">
+    <!-- Main Top Border -->
+    <rect x="0" y="0" width="880" height="60" fill="#060f1e" fill-opacity="0.6" stroke="#00ff41" stroke-width="1.5" stroke-opacity="0.7" rx="6"/>
+    <!-- Corner Decorative Line -->
+    <path d="M 10,0 L 30,0 M 0,10 L 0,30" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
+    <path d="M 870,60 L 850,60 M 880,50 L 880,30" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
+    <!-- Tech Dot -->
+    <circle cx="25" cy="30" r="4" fill="#00ff41" filter="url(#neonGlow)">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Title Text -->
+    <text x="45" y="38" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="22" font-weight="bold" fill="#00ff41" filter="url(#neonGlow)">CYBERSEC KITTY SKILLS MATRIX 🐱‍💻</text>
+    <text x="860" y="36" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="12" fill="#39ff14" text-anchor="end" opacity="0.7">v2.0.26 // SECURE_CORE</text>
+  </g>
+
+  <!-- 5. TABLE HEADERS -->
+  <g transform="translate(40, 125)" font-family="Consolas, Monaco, 'Courier New', monospace" font-size="14" font-weight="bold">
+    <rect x="0" y="0" width="880" height="35" fill="#0c162b" stroke="#39ff14" stroke-width="0.8" stroke-opacity="0.4"/>
+    <text x="20" y="22" fill="#ffffff" opacity="0.9">DOMAIN</text>
+    <text x="260" y="22" fill="#ffffff" opacity="0.9">SKILLS &amp; EXPERTISE</text>
+    <text x="590" y="22" fill="#ffffff" opacity="0.9">TOOLS &amp; TECHNOLOGIES</text>
+  </g>
+
+  <!-- ── 6. DATA MATRIX LAYERS (ROWS) ── -->
+  <!-- Global Text Styles Profile -->
+  <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="13" fill="#ffffff">
+    
+    <!-- ROW 1: Threat Analysis -->
+    <g transform="translate(40, 175)">
+      <rect width="880" height="90" fill="#040a16" fill-opacity="0.4" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.2"/>
+      <!-- Domain -->
+      <text x="20" y="50" font-size="15" font-weight="bold" fill="#00ff41">🐱‍👓 Threat Analysis</text>
+      <!-- Skills -->
+      <text x="260" y="30"><tspan fill="#39ff14">🐾</tspan> Threat Hunting</text>
+      <text x="260" y="52"><tspan fill="#39ff14">👀</tspan> Anomaly Detection</text>
+      <text x="260" y="74"><tspan fill="#39ff14">🧩</tspan> Malware Analysis</text>
+      <!-- Tools -->
+      <text x="590" y="30"><tspan fill="#0fff50">🔍</tspan> Splunk • ELK • Wireshark</text>
+      <text x="590" y="52"><tspan fill="#0fff50">📊</tspan> Sigma • YARA • Snort</text>
+      <text x="590" y="74"><tspan fill="#0fff50">🦠</tspan> VirusTotal • Cuckoo Sandbox</text>
+    </g>
+
+    <!-- ROW 2: Defense Ops -->
+    <g transform="translate(40, 280)">
+      <rect width="880" height="90" fill="#040a16" fill-opacity="0.4" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.2"/>
+      <!-- Domain -->
+      <text x="20" y="50" font-size="15" font-weight="bold" fill="#00ff41">🛡️ Defense Ops</text>
+      <!-- Skills -->
+      <text x="260" y="30"><tspan fill="#39ff14">🐱‍🚀</tspan> Perimeter Defense</text>
+      <text x="260" y="52"><tspan fill="#39ff14">🔒</tspan> Access Control</text>
+      <text x="260" y="74"><tspan fill="#39ff14">📡</tspan> Network Security</text>
+      <!-- Tools -->
+      <text x="590" y="30"><tspan fill="#0fff50">🛡️</tspan> pfSense • Palo Alto FW</text>
+      <text x="590" y="52"><tspan fill="#0fff50">🔑</tspan> HashiCorp Vault • Keycloak</text>
+      <text x="590" y="74"><tspan fill="#0fff50">🌐</tspan> Nmap • ZAP • Burp Suite</text>
+    </g>
+
+    <!-- ROW 3: Cloud Security -->
+    <g transform="translate(40, 385)">
+      <rect width="880" height="90" fill="#040a16" fill-opacity="0.4" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.2"/>
+      <!-- Domain -->
+      <text x="20" y="50" font-size="15" font-weight="bold" fill="#00ff41">☁️ Cloud Security</text>
+      <!-- Skills -->
+      <text x="260" y="30"><tspan fill="#39ff14">🐱‍💻</tspan> Cloud Hardening</text>
+      <text x="260" y="52"><tspan fill="#39ff14">📦</tspan> Container Security</text>
+      <text x="260" y="74"><tspan fill="#39ff14">🔐</tspan> Secrets Management</text>
+      <!-- Tools -->
+      <text x="590" y="30"><tspan fill="#0fff50">☁️</tspan> AWS GuardDuty • Azure Sentinel</text>
+      <text x="590" y="52"><tspan fill="#0fff50">🐳</tspan> Docker Bench • Trivy</text>
+      <text x="590" y="74"><tspan fill="#0fff50">🗝️</tspan> AWS KMS • Azure Key Vault</text>
+    </g>
+
+    <!-- ROW 4: Offensive Sec -->
+    <g transform="translate(40, 490)">
+      <rect width="880" height="90" fill="#040a16" fill-opacity="0.4" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.2"/>
+      <!-- Domain -->
+      <text x="20" y="50" font-size="15" font-weight="bold" fill="#00ff41">🔓 Offensive Sec</text>
+      <!-- Skills -->
+      <text x="260" y="30"><tspan fill="#39ff14">🐱‍🐉</tspan> Penetration Testing</text>
+      <text x="260" y="52"><tspan fill="#39ff14">🌐</tspan> Web App Security</text>
+      <text x="260" y="74"><tspan fill="#39ff14">📱</tspan> Mobile Security</text>
+      <!-- Tools -->
+      <text x="590" y="30"><tspan fill="#0fff50">⚔️</tspan> Metasploit • Kali Linux</text>
+      <text x="590" y="52"><tspan fill="#0fff50">🕸️</tspan> OWASP ZAP • SQLMap</text>
+      <text x="590" y="74"><tspan fill="#0fff50">📲</tspan> Frida • MobSF</text>
+    </g>
+
+    <!-- ROW 5: Compliance -->
+    <g transform="translate(40, 595)">
+      <rect width="880" height="90" fill="#040a16" fill-opacity="0.4" stroke="#00ff41" stroke-width="0.5" stroke-opacity="0.2"/>
+      <!-- Domain -->
+      <text x="20" y="50" font-size="15" font-weight="bold" fill="#00ff41">📜 Compliance</text>
+      <!-- Skills -->
+      <text x="260" y="30"><tspan fill="#39ff14">🐱‍💼</tspan> Risk Management</text>
+      <text x="260" y="52"><tspan fill="#39ff14">📋</tspan> Audit Frameworks</text>
+      <text x="260" y="74"><tspan fill="#39ff14">🔏</tspan> Data Privacy</text>
+      <!-- Tools -->
+      <text x="590" y="30"><tspan fill="#0fff50">⚖️</tspan> CIS Benchmarks • NIST CSF</text>
+      <text x="590" y="52"><tspan fill="#0fff50">📑</tspan> ISO 27001 • SOC 2</text>
+      <text x="590" y="74"><tspan fill="#0fff50">🔒</tspan> GDPR • CCPA Compliance</text>
+    </g>
+  </g>
+
+  <!-- 7. STRUCTURAL FRAMING LINES (TOP & BOTTOM BORDERS) -->
+  <rect x="0" y="0" width="960" height="4" fill="url(#cyberLine)"/>
+  <rect x="0" y="716" width="960" height="4" fill="url(#cyberLine)"/>
+
+  <!-- Decorative Live Radar Faint Sparkles -->
+  <circle cx="880" cy="150" r="1.5" fill="#00ff41" opacity="0.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="100" cy="540" r="1.5" fill="#0fff50" opacity="0.3"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+</svg>
