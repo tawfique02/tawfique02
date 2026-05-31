@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400">
+  <defs>
+    <!-- Deep Space Premium Dark Background (Deep Blue-Black) -->
+    <linearGradient id="OledBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#02040a"/>
+      <stop offset="60%" stop-color="#050814"/>
+      <stop offset="100%" stop-color="#0a101f"/>
+    </linearGradient>
+
+    <!-- Cyberpunk Multi-Color Accent Gradients -->
+    <linearGradient id="cyberLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00f0ff" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7000ff" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#39ff14" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- High-Tech Isometric Blue/Cyan Hex Grid Structure -->
+    <pattern id="hexGrid" width="40" height="69.282" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 20 11.547 L 0 0 L 0 23.094 L 20 34.641 L 40 23.094 Z M 0 34.641 L 20 46.188 L 0 57.735 L 0 80.829 L 20 92.376 L 40 80.829 L 40 57.735 L 20 46.188 Z" 
+            fill="none" stroke="#00f0ff" stroke-width="0.5" stroke-opacity="0.09"/>
+    </pattern>
+
+    <!-- Cyan Glow Filter -->
+    <filter id="cyanGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="1" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Green Glow Filter -->
+    <filter id="greenGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="ambientBlur"><feGaussianBlur stdDeviation="70"/></filter>
+  </defs>
+
+  <!-- 1. BASE BACKGROUND -->
+  <rect width="1000" height="400" fill="url(#OledBg)"/>
+
+  <!-- 2. INFINITE SCROLLING CYAN TECH MESH -->
+  <rect width="1040" height="400" fill="url(#hexGrid)" x="0">
+    <animate attributeName="x" from="0" to="-40" dur="5s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- 3. DEEP AMBIENT BLUE & MAGENTA GLOW CORES (Blending Colors) -->
+  <circle cx="300" cy="200" r="160" fill="#00f0ff" opacity="0.03" filter="url(#ambientBlur)"/>
+  <circle cx="700" cy="200" r="160" fill="#7000ff" opacity="0.03" filter="url(#ambientBlur)"/>
+
+  <!-- 4. STREAMING DATA TRAILS (Dual Contrast Colors) -->
+  <g stroke-width="0.8" stroke-dasharray="1, 20">
+    <line x1="60" y1="-50" x2="60" y2="450" stroke="#00f0ff" stroke-opacity="0.25"><animate attributeName="stroke-dashoffset" values="0;200" dur="2.5s" repeatCount="indefinite"/></line>
+    <line x1="940" y1="-50" x2="940" y2="450" stroke="#7000ff" stroke-opacity="0.25"><animate attributeName="stroke-dashoffset" values="100;300" dur="3.2s" repeatCount="indefinite"/></line>
+  </g>
+
+  <!-- 5. TOP & BOTTOM MULTI-COLOR FRAMES -->
+  <rect x="0" y="0" width="1000" height="3" fill="url(#cyberLine)"/>
+  <rect x="0" y="397" width="1000" height="3" fill="url(#cyberLine)"/>
+
+  <!-- ── 6. FIRST PANEL (CYAN THEME): STUDENT LIVE CODE FEED ── -->
+  <g transform="translate(110, 45)">
+    <!-- Electric Blue Border -->
+    <rect width="360" height="310" fill="#030611" fill-opacity="0.9" stroke="#00f0ff" stroke-width="1.2" stroke-opacity="0.4" rx="8"/>
+    <text x="180" y="20" font-family="monospace" font-size="10" font-weight="bold" fill="#00f0ff" text-anchor="middle" letter-spacing="1">STUDENT_IDE // LIVE_COMPILING</text>
+    <line x1="0" y1="28" x2="360" y2="28" stroke="#00f0ff" stroke-width="0.6" stroke-opacity="0.2"/>
+
+    <!-- Dynamic Contrast Waves (Cyan & Violet) -->
+    <g fill="none" stroke-linecap="round" transform="translate(45, 80)">
+      <!-- Wave 1: Neon Cyan -->
+      <path d="M 0,30 Q 30,0 60,30 T 120,30 T 180,30 T 270,30" stroke="#00f0ff" stroke-width="2" stroke-opacity="0.8" filter="url(#cyanGlow)">
+        <animate attributeName="d" values="M 0,30 Q 30,0 60,30 T 120,30 T 180,30 T 270,30; M 0,30 Q 30,60 60,30 T 120,30 T 180,10 T 270,30; M 0,30 Q 30,0 60,30 T 120,30 T 180,30 T 270,30" dur="3s" repeatCount="indefinite"/>
+      </path>
+      <!-- Wave 2: Hot Magenta/Purple -->
+      <path d="M 0,30 Q 30,50 60,30 T 120,30 T 180,45 T 270,30" stroke="#ec00ff" stroke-width="1.2" stroke-opacity="0.6">
+        <animate attributeName="d" values="M 0,30 Q 30,50 60,30 T 120,30 T 180,45 T 270,30; M 0,30 Q 30,-10 60,30 T 120,5 T 180,30 T 270,30; M 0,30 Q 30,50 60,30 T 120,30 T 180,45 T 270,30" dur="2.2s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- Terminal/IDE Tech Student Logs -->
+    <g font-family="Consolas, monospace" font-size="11" font-weight="bold" fill="#ffffff" transform="translate(30, 180)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,-18; 0,0" dur="5s" repeatCount="indefinite"/>
+        <text x="0" y="15" fill="#a0aabf" font-weight="normal">git commit -m "Learning Every Day"</text>
+        <text x="0" y="34" fill="#39ff14">&gt;&gt; npm run dev --status: <tspan fill="#00f0ff">ACTIVE</tspan></text>
+        <text x="0" y="53" fill="#00f0ff">&gt;&gt; COMPILING TECH_STACK [SUCCESS]</text>
+        <text x="0" y="72" fill="#7000ff" opacity="0.6">0xSTUDENT_ID_CORE // STACK_OK</text>
+      </g>
+      <!-- Blinking Code Prompt -->
+      <text x="0" y="110" fill="#00f0ff">tech_student@terminal:~# <tspan fill="#ffffff">█<animate attributeName="opacity" values="0;1;0" dur="0.8s" repeatCount="indefinite"/></tspan></text>
+    </g>
+  </g>
+
+  <!-- ── 7. SECOND PANEL (NEON GREEN/PURPLE THEME): GLITCHY TECH EXPLORER IDENTITY ── -->
+  <g transform="translate(530, 45)">
+    <!-- Tech Purple Border -->
+    <rect width="360" height="310" fill="#030611" fill-opacity="0.9" stroke="#7000ff" stroke-width="1.2" stroke-opacity="0.4" rx="8"/>
+    <text x="180" y="20" font-family="monospace" font-size="9" fill="#7000ff" opacity="0.6" letter-spacing="1">USER_DATA_PROFILE</text>
+    <line x1="0" y1="28" x2="360" y2="28" stroke="#7000ff" stroke-width="0.6" stroke-opacity="0.2"/>
+
+    <!-- High-Fidelity Glitch TECH EXPLORER Header (Neon Green & Pink Glitch) -->
+    <g font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="24" letter-spacing="2" transform="translate(25, 10)">
+      <!-- Glitch Magenta Copy -->
+      <text x="22" y="71" fill="#ec00ff" opacity="0.7">
+        <animate attributeName="x" values="22;25;20;24;22" dur="0.25s" repeatCount="indefinite"/>
+        TECH EXPLORER
+      </text>
+      <!-- Main Electric Neon Green Center -->
+      <text x="20" y="70" fill="#39ff14" filter="url(#greenGlow)">
+        <animate attributeName="opacity" values="0.9;1;0.8;1;0.9" dur="1s" repeatCount="indefinite"/>
+        TECH EXPLORER
+      </text>
+    </g>
+
+    <!-- Student HUD Specs Block (Multi-Color Indicators) -->
+    <g transform="translate(55, 115)" font-family="monospace" font-size="12" font-weight="bold" fill="#ffffff">
+      <text x="0" y="15" fill="#00f0ff">■ ROLE       <tspan fill="#ffffff" font-weight="normal">: TECH_STUDENT</tspan></text>
+      <text x="0" y="44" fill="#39ff14">■ LEARNING   <tspan fill="#ffffff" font-weight="normal">: CYBER_OPS</tspan></text>
+      <text x="0" y="73" fill="#ec00ff">■ PASSION    <tspan fill="#ffffff" font-weight="normal">: OPEN_SOURCE</tspan></text>
+
+      <!-- Advanced Animated Grid Load Graph Bar (Cyan-Blue Loading Index) -->
+      <g transform="translate(0, 110)">
+        <text x="0" y="12" font-size="9" fill="#a0aabf" opacity="0.5">KNOWLEDGE RETENTION INDEX</text>
+        <rect x="0" y="22" width="250" height="5" fill="#0d1424" rx="1.5"/>
+        <rect x="0" y="22" width="200" height="5" fill="#00f0ff" rx="1.5" filter="url(#cyanGlow)">
+          <animate attributeName="width" values="150;240;180;220;150" dur="5s" repeatCount="indefinite"/>
+        </rect>
+        <!-- Glowing White Node Point -->
+        <circle cx="210" cy="24.5" r="4" fill="#ffffff" filter="url(#cyanGlow)">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+  </g>
+
+  <!-- 8. GLOBAL HIGH-TECH SPARKS -->
+  <circle cx="500" cy="200" r="2" fill="#ffffff" opacity="0.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.5s" repeatCount="indefinite"/></circle>
+</svg>
