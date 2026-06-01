@@ -31,14 +31,18 @@ Here are some ideas to get you started:
 ✨ Welcome to Md Tawfique Elahey's GitHub Profile ✨
 -->
 <!-- 🔐 Hacking / Cybersecurity Themed GIF -->
+<div align="center">
+  <img src="https://github.com/tawfique02/tawfique02/blob/main/te.svg" width="850" alt="Typing animation"/>
+</div>
+
+<!--
 </p>
-<p align="center">
-   <img src ="https://img.freepik.com/premium-photo/person-working-computer-anime-style_922007-2429.jpg" width="620" />
+//<p align="center">
+ //  <img src ="https://img.freepik.com/premium-photo/person-working-computer-anime-style_922007-2429.jpg" width="620" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="470" alt="Hacker typing animation" />
 </p>
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
-</p>
+-->
+
 ## 🏆 GitHub New Learners 
 
 ## 🖥️ Technical Skills
