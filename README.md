@@ -66,17 +66,20 @@ Here are some ideas to get you started:
 ---
 
 ## 📈 GitHub Stats
+
 <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfique02&layout=compact&theme=tokyonight&hide_border=false" height="200" />
-</div></br>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tawfique02&theme=dark&hide_border=false" />
-  <br/>
-</p>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfique02&theme=nord_bright" height="200" />
+  <!-- ১. অফিশিয়াল গিটহাব অ্যাক্টিভিটি গ্রাফ (টোকিওনাইট থিম) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tawfique02&theme=chartreuse-dark&bg_color=0a0f1d&hide_border=false" width="1000" alt="Tawfique's Activity Graph" />
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- ২. কাস্টম সফট ডার্ক গিটহাব স্ট্যাটাস কার্ড (অতিরিক্ত ব্রাইট হোয়াইট ফিক্সড) -->
+
+  <!-- ৩. গিটহাব স্ট্রিক স্ট্যাটাস (টোকিওনাইট থিম) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfique02&theme=chartreuse-dark&background=0a0f1d&hide_border=false" height="190" alt="Tawfique's Streak" />
+</div>
 
 ## 🏆 GitHub Trophies
 
