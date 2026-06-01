@@ -68,16 +68,10 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <!-- ১. অফিশিয়াল গিটহাব অ্যাক্টিভিটি গ্রাফ (টোকিওনাইট থিম) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tawfique02&theme=chartreuse-dark&bg_color=0a0f1d&hide_border=false" width="1000" alt="Tawfique's Activity Graph" />
 </div>
-
 <br/>
-
 <div align="center">
-  <!-- ২. কাস্টম সফট ডার্ক গিটহাব স্ট্যাটাস কার্ড (অতিরিক্ত ব্রাইট হোয়াইট ফিক্সড) -->
-
-  <!-- ৩. গিটহাব স্ট্রিক স্ট্যাটাস (টোকিওনাইট থিম) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfique02&theme=chartreuse-dark&background=0a0f1d&hide_border=false" height="190" alt="Tawfique's Streak" />
 </div>
 
